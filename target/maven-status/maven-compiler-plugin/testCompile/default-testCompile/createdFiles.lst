@@ -1,0 +1,8 @@
+bdd\step\Navstep.class
+bdd\page\compra.class
+bdd\runner\Runner.class
+bdd\stepdefinition\testStepdefs.class
+bdd\page\cliente.class
+bdd\page\navegador.class
+bdd\step\comprastep.class
+bdd\step\clientestep.class
